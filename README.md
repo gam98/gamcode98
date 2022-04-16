@@ -12,7 +12,6 @@
 const gamcode98 = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Java],
-  tools: [React, Redux, Node, Styled-Components, Spring],
- challenge: "I am doing the challenges by Frontend Mentor."
+  tools: [Node, Express, Sequelize, Mongoose, Passport.js, JWT, Spring]
 }
 ```
