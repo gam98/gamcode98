@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gamcode98" alt="gamcode98" /></a> </p>
 
-- 🌱 I’m currently learning **NestJS**
+- 🌱 I’m currently learning **Golang**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-gamcode.netlify.app](https://portfolio-gamcode.netlify.app)
 
