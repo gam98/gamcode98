@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Alejandro Mamani</h1>
-<h3 align="center">A passionate full-stack developer from Argentina</h3>
+<h3 align="center">Analyst Programmer with experience in application development and optimization, always open to new challenges. Connect me for future collaborations.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gamcode98&label=Profile%20views&color=0e75b6&style=flat" alt="gamcode98" /> </p>
 
