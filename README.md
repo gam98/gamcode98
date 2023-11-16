@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Gabriel Alejandro Mamani</h1>
-<h3 >Analyst Programmer with experience in application development and optimization, always open to new challenges. Connect me for future collaborations.</h3>
+<p>
+A programmer analyst specialized in web and mobile development, with a focus on user experience optimization.
+
+My background includes experience in both frontend and backend development, as well as in the creation of mobile applications and their respective deployments. I have had the privilege of participating in projects spanning all stages of the development cycle, from idea conception to successful implementation. These experiences have provided me with a thorough understanding of how to take a project from inception to production operation.
+
+I enjoy facing technological challenges and applying my creativity to find effective solutions. The ability to learn, grow and contribute to exciting projects in the world of web and mobile development is what motivates me every day.
+
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gamcode98&label=Profile%20views&color=0e75b6&style=flat" alt="gamcode98" /> </p>
 
